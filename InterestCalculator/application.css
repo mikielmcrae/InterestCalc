@@ -1,0 +1,17 @@
+.root {
+	-fx-background-color: rgb(203, 211, 244);
+	
+}
+.label {
+	-fx-font-weight: bold;
+}
+.button:hover {
+	-fx-cursor: hand;
+	-fx-color: rgb(223, 231, 264);
+	
+	
+}
+
+.button {
+	-fx-color: rgb(243, 251, 284);
+}
